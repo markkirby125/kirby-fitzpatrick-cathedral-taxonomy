@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-cathedral-taxonomy
-description: "Announce structural taxonomies upfront before detailing constituent components." Use this when working on fitzpatrick cathedral taxonomy.
+description: "Announce structural taxonomies upfront before detailing constituent components. Use this when working on fitzpatrick cathedral taxonomy."
 category: "Writing & Communication"
 triggers:
   - "cathedral taxonomy"
